@@ -1,5 +1,5 @@
-# Data-Wrangling#Data Wrangling
-What is the purpose of data What is Data Wrangling?
+# Data-Wrangling
+What is the purpose of Data Wrangling?
 Data wrangling is the process of converting data from the initial format to a format that may be better for analysis.
 
 What is the fuel consumption (L/100k) rate for the diesel car?
